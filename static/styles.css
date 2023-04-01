@@ -122,10 +122,11 @@ nav li{
 }
 
 
-#robot{
+#math{
     display: inline-block;
-	height: 100px;
-	width: 100px;
+	width: 160px;
+    float: left;
+    margin: 20px;
 	margin-left: 50px;
 	margin-right:70px;
 	position:absolute;
